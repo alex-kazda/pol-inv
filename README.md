@@ -1,7 +1,6 @@
-# pol-inv-sage
+# pol-inv
 
-Right now this project is empty.
+The goal of this project is to allow one to use a Jupyter notebook (or a Python program) to investigate various properties of relational structures and algebras. 
 
-The goal of this project is to allow one to use Sage to investigate
+Currently it can compute:
 - Polymorphisms from a relational structure A to a relational structure B (see https://doi.org/10.1145/3457606)
-- Properties of universal algebras (similar to [Universal Algebra Calculator](https://github.com/UACalc/uacalcsrc), but in Python and taking advantage of multithreading)
