@@ -9,7 +9,7 @@ setup(
     author='Alexandr Kazda',
     author_email='alex.kazda@gmail.com',
     install_requires=[
-        'pysat'
+        'python-sat'
     ],
     description='Package for computing polymorphisms in universal algebra'
 )
